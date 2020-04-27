@@ -5,7 +5,7 @@
 
 ### CLONE
 ```
-# https://github.com/02mees38/mees.XerXes-.git
+# git clone https://github.com/02mees38/mees.XerXes-.git
 ```
 
 ### COMPILE
